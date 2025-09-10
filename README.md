@@ -20,8 +20,7 @@
 - 认知提升：深入了解软件项目开发的全流程，形成工程化思维
 - 技能强化：熟练使用Git、Github等工具
 
-##Github
-- 地址
- 仓库地址：https://github.com/wodu-dreamy/software-engineering
+## Github
+- 仓库地址：https://github.com/wodu-dreamy/software-engineering
 - 截图
 ![微信图片_20250910174828](https://img2024.cnblogs.com/blog/3700873/202509/3700873-20250910174907304-123250691.png)
